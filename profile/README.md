@@ -4,6 +4,22 @@ we are so glad to see you here
 
 ![Kaanari](https://pbs.twimg.com/profile_banners/1483003278623453185/1643124849/1500x500)
 
+<div align="center">
+  <h1>About us</h1>
+  <br />
+  <a href="https://kaanari.com/">Our Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+   <a href="https://kaanari.com/ventures/">Our venture studio</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+   <a href="https://kaanari.com/work/">creative studio for mission-driven brands</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+   <a href="https://kaanari.com/expertise/">Expertise</a>
+  <br />
+  <hr />
+</div>
+
+## 👋 Hello again  
+
 We provide end-to-end solution implementation capable of addressing even the most complex issues.
 
 ## reach us
