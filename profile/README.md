@@ -20,7 +20,7 @@ we are so glad to see you here
 
 ## 👋 Hello again  
 
-We provide end-to-end solution implementation capable of addressing even the most complex issues.
+We offer comprehensive solutions that tackle complex problems seamlessly. We focus on building advanced web and mobile applications, leveraging AI, Blockchain and analytics to deliver cutting-edge solutions
 
 ## 👋 Reach us
 
