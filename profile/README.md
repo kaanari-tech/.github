@@ -1,4 +1,4 @@
-### Hey, Welcome to kaanari 👋
+### Hey, Welcome to kaanari 😃
 
 we are so glad to see you here
 
@@ -22,7 +22,7 @@ we are so glad to see you here
 
 We provide end-to-end solution implementation capable of addressing even the most complex issues.
 
-## reach us
+## 👋 Reach us
 
 -   [Website](https://kaanari.com/)
 -   [Linkedin](https://www.linkedin.com/company/kaanari/)
