@@ -7,9 +7,9 @@ we are so glad to see you here
 <div align="center">
   <h1>About us</h1>
   <br />
-  <a href="https://kaanari.com/">Our Website</a>
+  <a href="https://kaanari.com/">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-   <a href="https://kaanari.com/ventures/">Our venture studio</a>
+   <a href="https://kaanari.com/ventures/">Venture studio</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://kaanari.com/work/">Creative studio</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
