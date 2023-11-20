@@ -11,7 +11,7 @@ we are so glad to see you here
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://kaanari.com/ventures/">Our venture studio</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-   <a href="https://kaanari.com/work/">Creative studio for mission-driven brands</a>
+   <a href="https://kaanari.com/work/">Creative studio</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://kaanari.com/expertise/">Expertise</a>
   <br />
