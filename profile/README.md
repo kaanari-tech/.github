@@ -23,7 +23,7 @@ we are so glad to see you here
 We offer comprehensive solutions that tackle complex problems seamlessly. We focus on building advanced web and mobile applications, leveraging AI, Blockchain and analytics to deliver cutting-edge solutions
 
 ## 🧙 Open source repos 
-At Escape, in addition to our work, we've also been developing some open-source projects. Let us introduce you to all of them 🚀
+At Kaanari, in addition to our work, we've also been developing some open-source projects. Let us introduce you to all of them 🚀
 
 - [Fastapi Boilerplate](https://github.com/kaanari-tech/fastapi-boilerplate), FastAPI REST boilerplate for typical project.
 
