@@ -1,6 +1,6 @@
 ### Hey, Welcome to kaanari 😃
 
-we are so glad to see you here
+We are a team of like-minded design enthusiasts and tech aficionados that explore the digital frontier with grit and dedication.
 
 ![Kaanari](https://pbs.twimg.com/profile_banners/1483003278623453185/1643124849/1500x500)
 
